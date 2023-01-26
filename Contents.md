@@ -30,7 +30,7 @@
 
 [Abenteurergilde](Guilds/Abenteurergilde.md)
 
-### Gilde der Schatten
+[Gilde der Schatten](Guilds/Diebesgilde.md)
 
 ### Gilde des Sanges
 
