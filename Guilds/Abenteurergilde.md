@@ -3,27 +3,26 @@
 ## Struktur
 
 - Hauptstellen in jeder größeren Stadt
-    - Gildenvorstand
-        - Gildenmeister
-        - Gildensekretär
-        - Buchhalter
-    - Gildenmitarbeiter
-        - Theke
-        - Gastwirt
-- Außenstellen in kleineren Städten
+  - Gildenvorstand
+    - Gildenmeister
+    - Gildensekretär
+    - Buchhalter
+  - Gildenmitarbeiter
     - Theke
-    - Anschlagbrett
     - Gastwirt
--  Anschlagbretter in Dörfern oft in Tavernen oder bei der Dorfschänke
-
+- Außenstellen in kleineren Städten
+  - Theke
+  - Anschlagbrett
+  - Gastwirt
+- Anschlagbretter in Dörfern oft in Tavernen oder bei der Dorfschänke
 
 ## Aufgaben der Abenteurergilde
 
 - Erkundung unbekannter Gebiete
 - kleinere Aufträge für Privatpersonen oder Gruppierungen
-    - Eskorten
-    - Monstertötung
-    - Suchen von verlorenen Gegenständen
+  - Eskorten
+  - Monstertötung
+  - Suchen von verlorenen Gegenständen
 - Unterstützung der Stadtwache bei der Bekämpfung von Monstern
 - Können auch für Investigative Aufgaben zugezogen werden
 
@@ -42,5 +41,7 @@ wird dies nicht beachtet droht ein Ausschluss aus der Gilde durch den Gildenmeis
 
 Sollte einem Abenteurer gravierende Straftaten vorgeworfen werden, so unterliegt die Untersuchung bei der Abenteurergilde
 führt dies zu einer Verurteilung, wird der Straftäter von der Gilde ausgeschlossen und den Behörden übergeben
+
+[zum SL-Bereich](./Abenteurergilde-SL.md)
 
 [zum Inhaltsverzeichnis](../Contents.md)
