@@ -6,7 +6,7 @@ Abenteurergilde: _Gildenmeisterin_ <br>
 
 ## Aussehen
 
-- Eine Frau Ende Zwanzig 
+- Eine Frau mittleren Alters 
 - Trägt polierte Silberne Rüstung
 - Rotes Haar, Blaue Augen
 - de facto Anführerin der Gilde.
@@ -22,8 +22,20 @@ Als Gildenmeisterin trug sie wesentlich zum Vertrag der Abenteurergilde oder dem
 
 ## Werdegang
 
-Als Kind ausgebildet von den Rittern von Schallburg. Stieg schnell in den Rängen auf, wurde aber aus unbekannten Gründen entlassen.
-Gründete mit Phianix dem Magiefähigen, Lauren der Naturmagierin und dem Dieb Pastolian die Abenteurergruppe "Vielschicht" (anm. WIP).
-Die Gruppe stieg schnell in Bedeutung und Bekannheit.
-Seither ist Leanna  ein Vorbild für viele angehende Abenteurer.
- 
+- Als Kind ausgebildet von den Rittern von Schallburg. 
+- Stieg schnell in den Rängen auf
+- trat aus nicht bekannten Gründen aus. 
+	- Es wird vermutet, dass sie gegen die neuen Grundsätze der Scharlachroten Ritter war.
+- Gründete mit Phianix dem Magiefähigen, Lauren der Naturmagierin und dem Dieb Pastolian die Abenteurergruppe "Vielschicht" (anm. WIP).
+- Die Gruppe stieg schnell in Bedeutung und Bekannheit.
+- Seither ist Leanna  ein Vorbild für viele angehende Abenteurer.
+
+## Persönlichkeit
+- Gegnerin von Korruption
+- stolz
+- interessiert am Weltgeschehen
+
+
+[zur Abenteurergilde](../../Guilds/Abenteurergilde.md)
+
+[zum Inhaltsverzeichnis](../../Contents.md)

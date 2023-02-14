@@ -32,7 +32,11 @@ Die Scharlachroten Ritter, wie die Ritter von Schallburg heute genannt werden ag
 
 - Oberster Ritter
 	+ steht den Scharlachroten Rittern vor
-- 
+- Zweiter Ritter
+    + Stellvertreter des obersten Ritters
+    + Organisiert die "Truppen"
+
+
 
 
 

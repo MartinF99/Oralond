@@ -36,9 +36,11 @@
 - Dürfen Gasthäuser leiten
 
 ## Sonstige Regeln der Abenteurergilde
-**ALLE MITGLIEDER DER ABENTEUERERGILDE MÜSSEN IM KRIEGSFALL NEUTRAL BLEIBEN**
-wird dies nicht beachtet droht ein Ausschluss aus der Gilde durch den Gildenmeister
 
-Sollte einem Abenteurer Straftaten vorgeworfen werden, so unterliegt die Untersuchung bei der Abenteurergilde
+**ALLE MITGLIEDER DER ABENTEUERERGILDE MÜSSEN IM KRIEGSFALL NEUTRAL BLEIBEN**
+wird dies nicht beachtet droht ein Ausschluss aus der Gilde durch den Gildenmeister um dies zu umgehen, kann um eine vorrübergehende Beurlaubung gebeten werden.
+
+Sollte einem Abenteurer gravierende Straftaten vorgeworfen werden, so unterliegt die Untersuchung bei der Abenteurergilde
 führt dies zu einer Verurteilung, wird der Straftäter von der Gilde ausgeschlossen und den Behörden übergeben
 
+[zum Inhaltsverzeichnis](../Contents.md)

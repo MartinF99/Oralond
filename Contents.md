@@ -6,15 +6,15 @@
 
 ## Theologie
 
-### Core Pantheon
+- Core Pantheon
 
-### Seitgötter
+- Seitgötter
 
-#### Elfisch
+- Elfisch
 
-#### Zwergisch
+- Zwergisch
 
-#### Alte Götter
+- Alte Götter
 
 ## Länder
 
@@ -28,12 +28,12 @@
 
 ## Die Gilden
 
-[Abenteurergilde](Guilds/Abenteurergilde.md)
+- [Abenteurergilde](Guilds/Abenteurergilde.md)
 
-[Gilde der Schatten](Guilds/Diebesgilde.md)
+- [Gilde der Schatten](Guilds/Diebesgilde.md)
 
-### Gilde des Sanges
+- Gilde des Sanges
 
-### Gilde der Schmiedekunst
+- Gilde der Schmiedekunst
 
 ## Wichtige Persönlichkeiten
