@@ -10,5 +10,5 @@ Oralond ist momentan weder vollständig, noch wirklich ausgereift
 
 ## Kann ich Oralond selbst mitgestalten
 Natürlich darf jeder, der interesse hat Oralond mitgestalten
-Dafür muss man aber ein paar [Regeln](rules.md) beachten
+Dafür muss man aber ein paar [Regeln](rules.md) beachten.
 Um etwas beizutragen, einfach einen Pull request starten.
