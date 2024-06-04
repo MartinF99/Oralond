@@ -36,6 +36,6 @@ Als Gildenmeisterin trug sie wesentlich zum Vertrag der Abenteurergilde oder dem
 - interessiert am Weltgeschehen
 
 
-[zur Abenteurergilde](../../Guilds/Abenteurergilde.md)
+[zur Abenteurergilde](../../Organisations/Guilds/Abenteurergilde.md)
 
 [zum Inhaltsverzeichnis](../../Contents.md)

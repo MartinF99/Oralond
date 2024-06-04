@@ -24,7 +24,7 @@ Wie sieht der NSC aus?
 
 
 *Hier nur benötigte Fraktionen verlinken, die anderen einträge können einfach gelöscht werden.*
-[zur Abenteurergilde](../../Guilds/Abenteurergilde.md)
-[zur Schattengilde](../../Guilds/Diebesgilde.md)
+[zur Abenteurergilde](../../Organisations/Guilds/Abenteurergilde.md)
+[zur Schattengilde](../../Organisations/Guilds/Diebesgilde.md)
 
 [zum Inhaltsverzeichnis](../../Contents.md)

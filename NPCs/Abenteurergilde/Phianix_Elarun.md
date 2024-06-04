@@ -15,5 +15,5 @@ Abenteuergilde
 - stolz
 - getrieben
 
-[zurück zur Abenteurergilde](../../Guilds/Abenteuergilde.md)
+[zurück zur Abenteurergilde](../../Organisations/Guilds/Abenteuergilde.md)
 [zurück zum Inhaltsverzeichnis](../../Contents.md)
